@@ -29,4 +29,9 @@ public class TestAnimales {
 
     // ¿Puedo utilizar polimorfismo?
     // Sí pero no será de los métodos heredados, sino ya de los sobreescritos en la clase hija
+
+    // Crea clases extendiendo la clase Pajaro, por ejemplo Gorrión y Buitre.
+    //¿También son abstractas estas clases?
+
+    //No, porque Pajaro ya recoge los métodos abstractos
 }
