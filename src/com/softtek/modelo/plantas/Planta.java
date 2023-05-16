@@ -7,7 +7,7 @@ public abstract class Planta {
     protected String nombre_planta;
 
     protected boolean viva;
-    public abstract void regar(int cantidad, int tiempo);
+    protected abstract void regar(int cantidad, int tiempo);
 
     @Override
     public String toString() {
